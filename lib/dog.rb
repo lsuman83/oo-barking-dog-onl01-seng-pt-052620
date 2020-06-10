@@ -12,7 +12,7 @@ class Dog
     
   end
   
-  def self.bark 
+  def bark 
     
     puts "woof!"
     
