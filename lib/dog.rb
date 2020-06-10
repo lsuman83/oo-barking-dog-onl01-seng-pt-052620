@@ -12,7 +12,7 @@ class Dog
     
   end
   
-  def self.bark (dogs_name)
+  def self.bark 
     
     puts "woof!"
     
